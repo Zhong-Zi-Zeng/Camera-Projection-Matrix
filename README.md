@@ -11,7 +11,8 @@
   
   * 準備一個紙箱或是其他可以當作參考點的物件
   * 將影印下來的aruco網格，按照下面範例貼上  
-  ![圖片2](https://user-images.githubusercontent.com/102845636/228477573-870c3b9a-b3c6-4dbc-b02f-19548b96bc6e.png)
+  ![圖片2](https://user-images.githubusercontent.com/102845636/228481615-b48ea78c-3e4d-4b66-9027-9213fab8800b.png)
+
 
   * 開啟main.py檔即可實時顯示相機姿態位置
   
