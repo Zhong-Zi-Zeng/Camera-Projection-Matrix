@@ -3,7 +3,7 @@
 
 ## 事前準備
   * 一台相機
-  * 開啟GridImg資料夾，將裡面的相片印出  
+  * 開啟ArucoImg資料夾，將裡面的相片印出  
   
   ![0](https://user-images.githubusercontent.com/102845636/228475762-1d2f7770-9b79-40b9-bc12-c611a5efe706.png)
   ![1](https://user-images.githubusercontent.com/102845636/228475775-b3b13f61-9d2d-4ee1-8191-ab7851770542.png)
