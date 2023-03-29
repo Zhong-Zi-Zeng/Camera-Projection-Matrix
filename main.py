@@ -3,7 +3,8 @@ import cv2
 import cv2.aruco as aruco
 import matplotlib.pyplot as plt
 
-# 世界座標下的方框位置，按照aruco編號 (left_top, right_top, right_bottom, left_bottom) (id=0, id=1, id=2)
+# 世界座標下的方框位置，按照aruco編號(X, Y, Z) (left_top, right_top, right_bottom, left_bottom) (id=0, id=1, id=2)
+# 座標需要自己去量! 
 world_points = 0.1 * np.array([[18., 0, 112],
                                [108, 0, 112],
                                [111, 0, 23],
